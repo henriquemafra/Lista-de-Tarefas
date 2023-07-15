@@ -22,19 +22,19 @@ body {
     .adicionar-btn {
       margin-top: 5px;
       align-items: center;
-      font-size: 10px;
+      font-size: 15px;
     }
 
     .adicionar-btn-ul {
       margin-top: 5px;
       margin-right: 5px; 
       align-items: center;
-      font-size: 10px;
+      font-size: 15px;
     }
 
 .adicionar-input {
-  width: 100%;
-  height: 20px;
+  width: 85%;
+  height: 2rem;
   text-align: center;
   font-size: 10px;
   background-color: white;
