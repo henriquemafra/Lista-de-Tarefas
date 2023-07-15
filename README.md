@@ -30,7 +30,7 @@ Você pode acessar uma demonstração online do projeto neste link: [Demo do Pro
 
 ## 🖼️ Capturas de Tela
 
-![Captura de Tela 1](https://github.com/henriquemafra/ToDo/tree/master/screenshots/screenshot.png)
+![Captura de Tela 1](/screenshots/screenshot.png)
 
 ## 🤝 Contribuição
 
