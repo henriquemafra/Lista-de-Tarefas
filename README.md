@@ -51,7 +51,7 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 Se você tiver dúvidas, sugestões ou precisar de suporte, entre em contato:
 
 - Email: henriquemafra@gmail.com
-- Linkedin: [henriquemafra]([https://twitter.com/seu-usuario](https://www.linkedin.com/in/henriquemafradev/))
+- Linkedin: [henriquemafradev](https://www.linkedin.com/in/henriquemafradev/)
 
 ## ✨ Agradecimentos
 
